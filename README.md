@@ -5,6 +5,9 @@ My goal is to get a better understanding of computer and operating system archit
 ## Ressources
 - [os-dev.pdf](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 
+### Current Chapter
+- 3.4
+
 ## Setup
 
 - Ubuntu 20.10
